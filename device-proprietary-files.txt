@@ -1,0 +1,10 @@
+# Device-specific proprietary files
+
+# RIL - GSM variant - pinned to HTC package 6.12.401.4 version
+vendor/lib/libril-qc-qmi-1.so|1409aedae1ad0dc88238340376eaf0deae82730b
+
+# RIL - SPR variant - pinned to HTC package HTC package 6.20.651.3 version
+vendor/lib/libril_spr-qc-qmi-1.so|a3d57bd51927aef77ba4d0cf1c866323a52c0dd1
+
+# RIL - VZW variant - pinned to HTC package HTC package 6.21.605.3 version
+vendor/lib/libril_vzw-qc-qmi-1.so|3b055f7ea7246adbbfdbcd5d6389fbc4fd8dd2c2
